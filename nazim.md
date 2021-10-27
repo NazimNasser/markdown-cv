@@ -37,6 +37,9 @@ Computer skills
 
 LANGUAGES
 
+English
+French
+Arabic
 ```
 
 
